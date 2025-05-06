@@ -3,7 +3,7 @@
 An interactive and visually captivating **3D Developer Portfolio** built with **React.js**, **Three.js**, and **Tailwind CSS**. This project showcases my skills, experience, and projects in a dynamic, modern format using reusable components and real-time 3D animations.
 
 🌐 [Live Site →](https://03mrinmoy-portfolio.netlify.app/)  
-📁 [Browse Projects →](https://03mrinmoy-portfolio.netlify.app/#projects)
+📁 [Browse Projects →](https://03mrinmoy-portfolio.netlify.app/#work)
 
 ---
 
