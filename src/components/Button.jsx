@@ -1,6 +1,6 @@
 const Button2 = ({ name, isBeam = false, containerClass = '', onClick }) => {
   return (
-    <a href="/resume.pdf" download>
+    <a href="./assets/Resume.pdf" download>
       <button onClick={onClick} className={`btn ${containerClass}`}>
         {isBeam && (
           <span className="relative flex h-3 w-3">
