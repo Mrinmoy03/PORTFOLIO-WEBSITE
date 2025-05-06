@@ -7,11 +7,6 @@ An interactive and visually captivating **3D Developer Portfolio** built with **
 
 ---
 
-## 📸 Preview
-
-![3D Portfolio Preview](./public/assets/preview.gif)
-
----
 
 ## 🚀 Features
 
