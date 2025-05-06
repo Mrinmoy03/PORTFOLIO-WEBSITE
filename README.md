@@ -33,15 +33,4 @@ An interactive and visually captivating **3D Developer Portfolio** built with **
 
 ---
 
-## 📂 Folder Structure
 
-```bash
-├── public/
-├── src/
-│   ├── assets/          # Images, videos, logos
-│   ├── components/      # Reusable UI components
-│   ├── sections/        # Sections: Hero, About, Projects, Contact, etc.
-│   ├── constants/       # Data for dynamic rendering
-│   ├── App.jsx          # Root component
-│   └── main.jsx         # App entry point
-└── tailwind.config.js   # Tailwind configuration
