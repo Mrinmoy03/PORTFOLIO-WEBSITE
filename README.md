@@ -31,6 +31,5 @@ An interactive and visually captivating **3D Developer Portfolio** built with **
 | **Framer Motion** | Animations and transitions           |
 | **React Scroll** | Smooth scrolling to page sections     |
 
----
 
 
